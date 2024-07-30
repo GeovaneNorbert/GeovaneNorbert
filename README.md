@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeovaneNorbert
-- 👀 I’m interested in Backend
-- 🌱 I’m currently learning Golang and Flutter
+- 👀 I’m Backend developer.
+- 🌱 I'm a Delphi and Golang developer with over 10 years of experience. Currently working at [Questor](https://www.questor.com.br/)
 - 📫 geovane.norbert@gmail.com
 
 <!---
